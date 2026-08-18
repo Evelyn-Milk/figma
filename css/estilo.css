@@ -1,0 +1,23 @@
+body{
+    background-color: #FFF4E0;
+
+
+}
+
+.cabeca h1{
+    font-family:'Brush Script MT', cursive;
+    font-size: 300%;
+    display: flex;
+    justify-content: center;
+}
+.pesq h2{
+    width: fit-content;
+    height: fit-content;
+    background-color: rgb(50, 99, 99);
+    display: flex;
+}
+.image{
+    display: flex;
+    justify-content: center;
+}
+
